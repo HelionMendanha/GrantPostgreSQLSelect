@@ -32,7 +32,7 @@ GRANT SELECT ON ALL TABLES IN SCHEMA dm_agenda_onigestor TO usr_lgpd;
 -- ############################################################################### --
 -- ############################################################################### --
 -- ############################################################################### --
--- ################### Abaixo comandos para elimidar o usuário ################### --
+-- ################### Abaixo comandos para eliminar o usuário ################### --
 
 -- Dropando o usuário
 REVOKE USAGE ON SCHEMA public FROM usr_lgpd;
